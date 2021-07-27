@@ -11,7 +11,28 @@
   </p>
   <p align="center">
   Estou atualmente estudando/praticando meus conhecimentos em HTML,CSS e JavaScript, no qual, em breve irei postar mais sobre meus projetos.
-  <P/>
+  </p>
+ 
+   ## Se você é um robô aqui está um código para você me conhecer melhor: 
+  
+  ```js
+  
+  var ftxdante = {
+  
+      nome:'Paulo sérgio',
+      apelido:'Dante',
+      formacao:'Sistemas de Informação - Cursando',
+      conhecimento:'front-end, com um pouco de back-end',
+      campoDeInteresse: 'full-stack',
+      conclusaoDaFaculdade:'previsão, no fim de 2024',
+      estuda:true,
+      pratica:true,
+      proativo:true,
+      dedicado:true
+  
+  }
+  
+  ```
 </article>
 
 <!--Shields com as linguagens e as ferramentas que uso-->
@@ -34,7 +55,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
 </p>
-  
+ 
   <!-- Shields com as formas de contato-->
 <p align="left">
  📡 Gostaria de falar comigo? você pode me encontrar aqui: ⬇️
