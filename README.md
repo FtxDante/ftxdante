@@ -12,27 +12,6 @@
   <p align="center">
   Estou atualmente estudando/praticando meus conhecimentos em HTML,CSS e JavaScript, no qual, em breve irei postar mais sobre meus projetos.
   </p>
- 
-   ## Se você é um robô aqui está um código para você me conhecer melhor: 
-  
-  ```js
-  
-  var ftxdante = {
-  
-      nome:'Paulo sérgio',
-      apelido:'Dante',
-      formacao:'Sistemas de Informação - Cursando',
-      conhecimento:'front-end, com um pouco de back-end',
-      campoDeInteresse: 'full-stack',
-      conclusaoDaFaculdade:'previsão, no fim de 2024',
-      estuda:true,
-      pratica:true,
-      proativo:true,
-      dedicado:true
-  
-  }
-  
-  ```
 </article>
 
 <!--Shields com as linguagens e as ferramentas que uso-->
