@@ -1,10 +1,10 @@
 ## Bem vindo(a) 👀
 
-
+<!-- Minha nota segundo o github-->
 [![ftxdante](https://github-readme-stats.vercel.app/api?username=ftxdante&theme=dracula)](https://github.com/ftxdante/)
 
 <img src="https://i.pinimg.com/originals/78/5a/1b/785a1b9c359640da6bc9cfe3670b42ba.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
+<!-- Artigo com as minhas informações-->
 <article>
   <p align="center"> 
     Olá, Meu nome é <strong>Paulo Sérgio</strong>, mas pode me chamar de <strong>Dante</strong>, sou estudante de <strong>Sistemas de Informação<strong/> e tenho foco atualmente em Front-End, embora meu objetivo seja explorar tudo que é possível até a conclusão da minha faculdade (prevista em 2024).
@@ -13,6 +13,8 @@
   Estou atualmente estudando/praticando meus conhecimentos em HTML,CSS e JavaScript, onde em breve irei postar mais sobre meus projetos.
   <P/>
 </article>
+
+<!--Shields com as linguagens e as ferramentas que uso-->
 <p align="left">
   🦄 Linguagens: 
   
@@ -33,12 +35,10 @@
   
 </p>
   
-  
+  <!-- Shields com as formas de contato-->
 <p align="left">
   💌 Gostaria de falar comigo? você pode me encontrar aqui: ⤵️
 </p>
-
- 
 <p align="left">
   <a href="https://www.linkedin.com/in/dante-rodrigues-frontend/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
@@ -47,8 +47,12 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 </p>  
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=ftxdante&hide=html&layout=compact&theme=dracula)](https://github.com/ftxdante/)
-
+<!--Linguagens mais usadas -->
+<a href="https://github.com/ftxdante/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1"/>
+</a>
+  
+<!--Dicas do Github (não tive a coragem de apagar kk -->
 <!--
 **FtxDante/ftxdante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
