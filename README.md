@@ -10,7 +10,7 @@
     Olá, Meu nome é <strong>Paulo Sérgio</strong>, mas pode me chamar de <strong>Dante</strong>, sou estudante de <strong>Sistemas de Informação<strong/> e tenho foco atualmente em Front-End, embora meu objetivo seja explorar tudo que é possível até a conclusão da minha faculdade (prevista em 2024).
   </p>
   <p align="center">
-  Estou atualmente estudando/praticando meus conhecimentos em HTML,CSS e JavaScript, onde em breve irei postar mais sobre meus projetos.
+  Estou atualmente estudando/praticando meus conhecimentos em HTML,CSS e JavaScript, no qual, em breve irei postar mais sobre meus projetos.
   <P/>
 </article>
 
