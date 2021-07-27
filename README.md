@@ -1,5 +1,6 @@
 ## Bem vindo(a) 👀
 
+
 [![ftxdante](https://github-readme-stats.vercel.app/api?username=ftxdante&theme=dracula)](https://github.com/ftxdante/)
 
 <img src="https://i.pinimg.com/originals/78/5a/1b/785a1b9c359640da6bc9cfe3670b42ba.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
@@ -37,8 +38,7 @@
   💌 Gostaria de falar comigo? você pode me encontrar aqui: ⤵️
 </p>
 
-  
-
+ 
 <p align="left">
   <a href="https://www.linkedin.com/in/dante-rodrigues-frontend/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
@@ -63,3 +63,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
