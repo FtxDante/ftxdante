@@ -49,7 +49,7 @@
 
 <!--Linguagens mais usadas -->
 <a href="https://github.com/ftxdante/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftxdante&theme=dracula&hide_langs_below=1"/>
 </a>
   
 <!--Dicas do Github (não tive a coragem de apagar kk -->
