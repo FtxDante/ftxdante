@@ -1,4 +1,4 @@
-## Bem vindo(a) 👀
+## Bem vindo(a) ao meu GitHub 🥳
 
 <!-- Minha nota segundo o github-->
 [![ftxdante](https://github-readme-stats.vercel.app/api?username=ftxdante&theme=dracula)](https://github.com/ftxdante/)
@@ -16,7 +16,7 @@
 
 <!--Shields com as linguagens e as ferramentas que uso-->
 <p align="left">
-  🦄 Linguagens: 
+ 💻 Linguagens: 
   
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -27,7 +27,7 @@
   
 </p>
 <p align="left">
-  💼 Ferramentas:
+ 🧰 Ferramentas:
   
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -37,7 +37,7 @@
   
   <!-- Shields com as formas de contato-->
 <p align="left">
-  💌 Gostaria de falar comigo? você pode me encontrar aqui: ⤵️
+ 📡 Gostaria de falar comigo? você pode me encontrar aqui: ⬇️
 </p>
 <p align="left">
   <a href="https://www.linkedin.com/in/dante-rodrigues-frontend/" alt="Linkedin">
