@@ -1,23 +1,19 @@
 ## Bem vindo(a) ao meu GitHub 🥳
-<img align="left" src="https://i.pinimg.com/originals/78/5a/1b/785a1b9c359640da6bc9cfe3670b42ba.png" min-width="400px" max-width="400px" width="400px" align="left" alt="Computador">
 
 <!-- Minha nota segundo o github-->
+[![ftxdante](https://github-readme-stats.vercel.app/api?username=ftxdante&theme=dracula)](https://github.com/ftxdante/)
 
-<a href="https://github.com/ftxdante/" >
-  <img src="https://github-readme-stats.vercel.app/api?username=ftxdante&theme=dracula"/>
-</a>
-
+<img src="https://i.pinimg.com/originals/78/5a/1b/785a1b9c359640da6bc9cfe3670b42ba.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <!-- Artigo com as minhas informações-->
+<article>
   <p align="center"> 
     Olá, Meu nome é <strong>Paulo Sérgio</strong>, mas pode me chamar de <strong>Dante</strong>, sou estudante de <strong>Sistemas de Informação<strong/> e tenho foco atualmente em Front-End, embora meu objetivo seja explorar tudo que é possível até a conclusão da minha faculdade (prevista em 2024).
   </p>
   <p align="center">
   Estou atualmente estudando/praticando meus conhecimentos em HTML,CSS e JavaScript, no qual, em breve irei postar mais sobre meus projetos.
   </p>
-  
-  ***
  
-   ### Se você é um robô aqui está um código para você me conhecer melhor: 
+   ## Se você é um robô aqui está um código para você me conhecer melhor: 
   
   ```js
   
@@ -27,7 +23,7 @@
       apelido:'Dante',
       formacao:'Sistemas de Informação - Cursando',
       conhecimento:'front-end, com um pouco de back-end',
-      campoDeInteresse: 'desenvolvimento web: full-stack',
+      campoDeInteresse: 'full-stack',
       conclusaoDaFaculdade:'previsão, no fim de 2024',
       estuda:true,
       pratica:true,
@@ -37,8 +33,7 @@
   }
   
   ```
-  ***
-  
+</article>
 
 <!--Shields com as linguagens e as ferramentas que uso-->
 <p align="left">
@@ -91,6 +86,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...s
+- ⚡ Fun fact: ...
 -->
-
