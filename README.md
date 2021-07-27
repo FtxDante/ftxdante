@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+
+[![ftxdante](https://github-readme-stats.vercel.app/api?username=ftxdante&theme=dracula)](https://github.com/ftxdante/)
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=ftxdante&hide=html&layout=compact&theme=dracula)](https://github.com/ftxdante/)
 
 <!--
 **FtxDante/ftxdante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
