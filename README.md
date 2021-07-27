@@ -1,6 +1,5 @@
 ## Bem vindo(a) ao meu GitHub 🥳
 <img align="left" src="https://i.pinimg.com/originals/78/5a/1b/785a1b9c359640da6bc9cfe3670b42ba.png" min-width="400px" max-width="400px" width="400px" align="left" alt="Computador">
-<div>
 
 <!-- Minha nota segundo o github-->
 
@@ -78,9 +77,6 @@
 <a href="https://github.com/ftxdante/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftxdante&theme=dracula&hide_langs_below=1"/>
 </a>
-  
-</div>
-
   
 <!--Dicas do Github (não tive a coragem de apagar kk -->
 <!--
