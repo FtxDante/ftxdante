@@ -1,8 +1,5 @@
 ## Bem vindo(a) ao meu GitHub 🥳
 
-![Arman Hossain, Software Engineer and Consultant](https://s3.amazonaws.com/assets-blog.hostgator.com.br/wp-content/uploads/2017/12/criar-site-evento-blog-v01.jpg)
-
-
 <img src="https://i.pinimg.com/originals/78/5a/1b/785a1b9c359640da6bc9cfe3670b42ba.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <!-- Artigo com as minhas informações-->
 <article>
