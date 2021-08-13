@@ -45,7 +45,7 @@
 </p>  
 
 <!--Linguagens mais usadas -->
-<a href="https://github.com/ftxdante/">
+<a href="https://github.com/ftxdante/" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftxdante&theme=dracula&hide_langs_below=1"/>
 </a>
   
