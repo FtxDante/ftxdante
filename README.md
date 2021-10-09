@@ -11,6 +11,9 @@
   </p>
 </article>
 
+<a href="https://github.com/evaristux1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ftxdante&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
 <!--Shields com as linguagens e as ferramentas que uso-->
 <p align="left">
  💻 Linguagens: 
@@ -43,11 +46,6 @@
   <a href="https://api.whatsapp.com/send?phone=5585999609259&text=Deixe%20uma%20mensagem%2C%20irei%20te%20retornar%20o%20mais%20breve%20poss%C3%ADvel." alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 </p>  
-
-<!--Linguagens mais usadas -->
-<a href="https://github.com/ftxdante/" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftxdante&theme=dracula&hide_langs_below=1"/>
-</a>
   
 <!--Dicas do Github (não tive a coragem de apagar kk -->
 <!--
