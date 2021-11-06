@@ -9,11 +9,6 @@
   Estou atualmente estudando/praticando meus conhecimentos em HTML,CSS e JavaScript, no qual, em breve irei postar mais sobre meus projetos.
   </p>
 </article>
-
-<a href="https://github.com/evaristux1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ftxdante&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </a>
-
 <!--Shields com as linguagens e as ferramentas que uso-->
 <p align="left">
  💻 Linguagens: 
