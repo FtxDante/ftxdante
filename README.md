@@ -1,6 +1,5 @@
-<img src="https://radio.x-team.com/_next/static/image/src/assets/themes/mario.2484c967977ad1ed94372846036c4083.gif" width="100%" height="250px">
-
-<p align="center"> Bem vindo(a) ao meu GitHub 🥳 <p>
+## Bem vindo(a) ao meu GitHub 🎮
+<img src="https://radio.x-team.com/_next/static/image/src/assets/themes/mario.2484c967977ad1ed94372846036c4083.gif" width="100%" height="300px">
 <!-- Artigo com as minhas informações-->
 <article>
   <p align="center"> 
