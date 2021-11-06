@@ -1,6 +1,6 @@
-## Bem vindo(a) ao meu GitHub 🥳
+<img src="https://radio.x-team.com/_next/static/image/src/assets/themes/mario.2484c967977ad1ed94372846036c4083.gif" width="100%" height="250px">
 
-<img src="https://i.pinimg.com/originals/78/5a/1b/785a1b9c359640da6bc9cfe3670b42ba.png" width="300px" align="right" alt="Computador iuriCode">
+<p align="center"> Bem vindo(a) ao meu GitHub 🥳 <p>
 <!-- Artigo com as minhas informações-->
 <article>
   <p align="center"> 
