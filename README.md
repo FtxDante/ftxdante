@@ -1,6 +1,6 @@
-## Bem vindo(a) ao meu GitHub 🎮
-<img src="https://radio.x-team.com/_next/static/image/src/assets/themes/mario.2484c967977ad1ed94372846036c4083.gif" width="100%">
-<!-- Artigo com as minhas informações-->
+## Bem vindo(a) ao meu GitHub 🥳
+
+<img src="https://radio.x-team.com/_next/static/image/src/assets/themes/mario.2484c967977ad1ed94372846036c4083.gif" width="500px" align="right" alt="Computador iuriCode">
 <article>
   <p align="center"> 
     Olá, Meu nome é <strong>Paulo Sérgio</strong>, mas pode me chamar de <strong>Dante</strong>, sou estudante de <strong>Sistemas de Informação<strong/> e tenho foco atualmente em Front-End, embora meu objetivo seja explorar tudo que é possível até a conclusão da minha faculdade (prevista para 2024).
