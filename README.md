@@ -1,4 +1,4 @@
-## Bem vindo(a) ao meu GitHub 🥳
+## Bem vindo(a) ao meu GitHub 🤓
 
 <img src="https://radio.x-team.com/_next/static/image/src/assets/themes/star-wars.844b5edc165817b93dbfbfd22ff3b214.gif" width="100%" alt="Computador iuriCode">
 <article>
