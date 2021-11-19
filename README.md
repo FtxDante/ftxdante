@@ -39,6 +39,8 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 </p>  
   
+![Snake animation](https://github.com/FtxDante/FtxDante/blob/output/github-contribution-grid-snake.svg
+  
 <!--Dicas do Github (não tive a coragem de apagar kk -->
 <!--
 **FtxDante/ftxdante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
