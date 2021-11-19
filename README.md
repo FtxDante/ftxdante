@@ -37,9 +37,9 @@
 
   <a href="https://api.whatsapp.com/send?phone=5585999609259&text=Deixe%20uma%20mensagem%2C%20irei%20te%20retornar%20o%20mais%20breve%20poss%C3%ADvel." alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-</p>  
+</p>
   
-![Snake animation](https://github.com/FtxDante/FtxDante/blob/output/github-contribution-grid-snake.svg
+  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
   
 <!--Dicas do Github (não tive a coragem de apagar kk -->
 <!--
