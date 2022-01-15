@@ -1,6 +1,6 @@
 ## Bem vindo(a) ao meu GitHub 🤓
 
-<img src="https://radio.x-team.com/_next/static/media/mario.2484c967.gif" width="100%" alt="Computador iuriCode">
+<img src="https://radio.x-team.com/_next/static/media/mario.2484c967.gif" width="100%" height="300vh" alt="Computador iuriCode">
 <article>
   <p align="center"> 
     Olá, Meu nome é <strong>Paulo Sérgio</strong>, mas pode me chamar de <strong>Dante</strong>, sou estudante de <strong>Sistemas de Informação<strong/> e tenho foco atualmente em Back-End, embora meu objetivo seja explorar tudo que é possível até a conclusão da minha faculdade (prevista para 2024).
@@ -38,8 +38,6 @@
   <a href="https://api.whatsapp.com/send?phone=5585999609259&text=Deixe%20uma%20mensagem%2C%20irei%20te%20retornar%20o%20mais%20breve%20poss%C3%ADvel." alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 </p>
-  
-  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
   
 <!--Dicas do Github (não tive a coragem de apagar kk -->
 <!--
