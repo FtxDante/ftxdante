@@ -1,4 +1,4 @@
-## Bem vindo(a) ao meu GitHub 🤓
+## Bem vindo(a) 🤓
 
 <img src="https://radio.x-team.com/_next/static/media/mario.2484c967.gif" width="100%" height="100%" alt="Computador iuriCode">
 <article>
