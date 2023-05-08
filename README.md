@@ -34,9 +34,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/dante-rodrigues-frontend/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
-  <a href="https://api.whatsapp.com/send?phone=5585999609259&text=Deixe%20uma%20mensagem%2C%20irei%20te%20retornar%20o%20mais%20breve%20poss%C3%ADvel." alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 </p>
   
 <!--Dicas do Github (não tive a coragem de apagar kk -->
