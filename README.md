@@ -8,10 +8,14 @@
 
 </p>
 <p align="left">
- 🏁 Certificações:
+ <p>🏁 Certificações:</p>
   
-<code><img height="100vh" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="MongoDB"/></code>
-<code><img height="100vh" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="MongoDB"/></code>
+<a href="https://www.credly.com/badges/a606c932-5f1e-4115-9c01-9e435c4077cb/public_url" target="_blank" rel="noreferrer noopener">
+<code><img height="100vh" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="[AWS FOUNDATIONAL](https://www.credly.com/badges/a606c932-5f1e-4115-9c01-9e435c4077cb/public_url)"/></code>
+</a>
+<a href="https://www.credly.com/badges/95753661-b188-44d2-9dd9-92f57f2300eb/public_url" target="_blank" rel="noreferrer noopener">
+<code><img height="100vh" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="[AWS ASSOCIATE](https://www.credly.com/badges/95753661-b188-44d2-9dd9-92f57f2300eb/public_url)"/></code>
+</a>
 </p>
       
 <!--Shields com as linguagens e as ferramentas que uso-->
