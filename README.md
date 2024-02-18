@@ -45,8 +45,8 @@
  📡 Gostaria de falar comigo? você pode me encontrar aqui: ⬇️
 </p>
 <p align="left">
-  <a href="https://www.linkedin.com/in/dante-rodrigues-frontend/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+  <a href="https://www.linkedin.com/in/paulo-tenorio-developer/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 </p>
   
 <!--Dicas do Github (não tive a coragem de apagar kk -->
